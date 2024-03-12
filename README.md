@@ -1,7 +1,7 @@
 # TP1PROVIS2024
 
-## Pengelolaan Buku Perpustakaan dengan Dart
-Projek ini adalah implementasi sederhana dari konsep Pemrograman Berorientasi Objek (OOP) dan Asyncronus dalam bahasa pemrograman Dart. Tema dari projek ini adalah pengelolaan buku dalam perpustakaan.
+## Pengelolaan Buku Perpustakaan
+Program ini adalah implementasi sederhana dari konsep Pemrograman Berorientasi Objek (OOP) dan Asyncronus dalam bahasa pemrograman Dart. Tema dari projek ini adalah pengelolaan buku dalam perpustakaan.
 
 ## Struktur Kode
 Kode dibagi menjadi tiga file utama:
